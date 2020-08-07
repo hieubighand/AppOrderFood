@@ -13,8 +13,5 @@ public class App
         System.out.println( "Hieu" );
         System.out.println( "Duong" );
         System.out.println( "Duong123" );
-
-        
-
     }
 }
