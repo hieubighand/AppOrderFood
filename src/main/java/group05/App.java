@@ -2,7 +2,7 @@ package group05;
 
 // import java.math.BigInteger;
 // import java.security.MessageDigest;
-// import java.security.NoSuchAlgorithmException; cai lon
+// import java.security.NoSuchAlgorithmException;
 import java.sql.SQLException;
 import java.text.DecimalFormat;
 import java.text.Normalizer;
